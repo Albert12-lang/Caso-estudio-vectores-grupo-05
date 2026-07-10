@@ -25,5 +25,5 @@ Estos casos nos permitió aplicar de manera práctica los conocimientos básicos
 2. Gualpa Gonzalez Jhon Jairo. 
 3. Landivar López Francisco Alberto. 
 4. Semper Ordóñez Ismael Jared. 
-5. Ocampo Rivera Christopher Alexis 
+5. Ocampo Rivera Christopher Alexis.
 
